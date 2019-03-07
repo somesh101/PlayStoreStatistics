@@ -10,9 +10,9 @@ Step 2: Click On authorize to allow addon to fetch the data for you.
        Follow the screen guide in new Tab opened for you.
 Step 3: It will open a Sidebar asking for bucket name and object name you can find them just like this.
      3.1 : In playstore console at bottom you will find something like this 
-         gs://<this is objectName> if you click this you will open a bucket in gcs
+         gs://\<this is objectName\> if you click this you will open a bucket in gcs
      3.2 : You can locate the Bucket on screen
-           Bucket / <this is bucket Name> / <after this everyhthig is objectName inlcuding the>
+           Bucket / \<this is bucket Name\> / \<after this everyhthig is objectName inlcuding the\>
      3.3 Copy those into the input box and Hit Submit.
 Step 4: You are Done.
 
