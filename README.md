@@ -1,3 +1,5 @@
+<h1>PlayStoreStatistics</h1>
+
 Alot of work is yet to be done it's version 1 that means it's going to be buggy. Plus this is my first time writing any addon.
 let's Just hope everything workout In end. 
 
@@ -18,3 +20,12 @@ Step 2: It will open a Sidebar asking for bucket name and object name you can fi
 Step 3: If you have created a new report you know what to do. or look UP.
 
 Happy Hunting.
+
+
+Upcoming Functions:
+  Select Date Range:
+  Select particularDate:
+  Scheduling:
+  May be Select Report Type:
+  May Be Select Columns:
+  Most importantly Bug FIX.
