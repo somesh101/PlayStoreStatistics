@@ -1,5 +1,5 @@
 <h1>PlayStoreStatistics</h1>
-
+<pre>
 Alot of work is yet to be done it's version 1 that means it's going to be buggy. Plus this is my first time writing any addon.
 let's Just hope everything workout In end. 
 
@@ -29,3 +29,4 @@ Upcoming Functions:
   May be Select Report Type:
   May Be Select Columns:
   Most importantly Bug FIX.
+</pre>
